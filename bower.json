@@ -1,0 +1,22 @@
+{
+  "name": "vyacheslav",
+  "description": "my website",
+  "main": "index.js",
+  "authors": [
+    "Sm1t"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "swiper": "^3.4.0"
+  }
+}
